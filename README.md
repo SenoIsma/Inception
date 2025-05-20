@@ -1,7 +1,7 @@
 # Inception
 
 Inception est un projet 42 visant à créer un environnement de conteneurs Docker.
-Le but est de déployer plusieurs services web qu'à l'aide de Docker Compose, le tout sans utiliser d'image Docker Hub.
+Le but est de déployer un service web qu'à l'aide de Docker Compose, le tout sans utiliser d'image Docker Hub.
 
 ## Services inclus
 
