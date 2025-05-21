@@ -22,3 +22,5 @@ Le but est de déployer un service web qu'à l'aide de Docker Compose, le tout s
    cd inception
    make
    ```
+
+📚 Un guide pas à pas pour réussir le projet est disponible ici : [GUIDE.md](./GUIDE.md)
