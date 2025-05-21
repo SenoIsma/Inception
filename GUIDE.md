@@ -171,4 +171,4 @@ Lancer le docker en etant a la racine du projet et faites :
 
 ``docker-compose -f srcs/docker-compose.yml --env-file srcs/.env up --build``
 
-Pour tester, vous pouvez rejoindre le docker en faisant la commande ``docker exec -it mariadb bash`` ce qui vas vous faire rentrer dans la mini VM et tester pour voir si le script a bien fonctionner, regarder sur la DB a été créer et l'utilisateur aussi.
+Pour tester, vous pouvez rejoindre le docker en faisant la commande ``docker exec -it mariadb bash`` ce qui vas vous faire rentrer dans la mini VM et tester pour voir si le script a bien fonctionner, regarder si la DB a été créer et l'utilisateur aussi.
